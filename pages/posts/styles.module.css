@@ -1,0 +1,15 @@
+.deleteButton{
+    margin: 3px;
+}
+.userFullName{
+    color: gray;
+    font-size: 25px;
+}
+.newPost{
+    display: flex;
+    justify-content: space-between
+}
+.userProfileImg{
+    border: 2px solid gray;
+    box-shadow: 0px 0px 77px -13px rgba(0,0,0,0.55);
+}
